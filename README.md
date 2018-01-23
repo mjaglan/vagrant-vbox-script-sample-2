@@ -1,0 +1,1 @@
+# vagrant-vbox-script-sample-2
